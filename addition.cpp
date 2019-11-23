@@ -1,4 +1,4 @@
-// First assignment for basic additio 
+// First assignment for basic addition
 // Pull this addition code
 // Add specific instructions to improve the code in your respository
 
@@ -39,7 +39,7 @@ int main(int argc, char* argv[])
         num1 = atoi(argv[1]); 
         num2 = atoi(argv[2]); 
   
-        // Find the average and print it 
+        // Find the sum and print it 
         printf("%d\n", add(num1, num2)); 
     } 
     return 0; 
